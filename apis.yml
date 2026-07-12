@@ -85,6 +85,8 @@ apis:
   - type: Documentation
     url: https://www.bloomberg.com/professional/solution/regulatory-data/
 common:
+- type: DomainSecurity
+  url: security/bloomberg-sustainable-finance-products-domain-security.yml
 - type: Portal
   url: https://www.bloomberg.com/professional/
 - type: Documentation
