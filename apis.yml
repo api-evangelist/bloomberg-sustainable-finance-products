@@ -5,6 +5,17 @@ description: Bloomberg Sustainable Finance Products provide comprehensive data, 
   for sustainable finance markets, offering green bond data, ESG scores, climate analytics, and impact measurement
   tools aligned with major regulatory frameworks including SFDR, EU Taxonomy, and TCFD.
 type: Index
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: freemium
   onboarding: unknown
