@@ -109,6 +109,12 @@ apis:
   - type: Documentation
     url: https://www.bloomberg.com/professional/solution/regulatory-data/
 common:
+- type: Plans
+  url: plans/bloomberg-sustainable-finance-products-plans-pricing.yml
+- type: RateLimits
+  url: rate-limits/bloomberg-sustainable-finance-products-rate-limits.yml
+- type: FinOps
+  url: finops/bloomberg-sustainable-finance-products-finops.yml
 - type: Website
   url: https://bloomberg.com
 - type: ParentCompany
